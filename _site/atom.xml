@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>eSafetyNet</title>
+ <link href="http://www.esafetynet.com.au/atom.xml" rel="self"/>
+ <link href="http://www.esafetynet.com.au/"/>
+ <updated>2015-04-29T19:23:12+10:00</updated>
+ <id>http://www.esafetynet.com.au</id>
+ <author>
+   <name>User Name</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>

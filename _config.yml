@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+
+# Permalinks
+permalink:        /blog/:title
+
+# Setup
+title:            eSafetyNet
+tagline:          'An internet safety website'
+description:      'A forum for internet safety.'
+url:              http://www.esafetynet.com.au
+
+author:
+  name:           'User Name'
+  url:            https://twitter.com/user
+
+paginate:         5
+paginate_path:    "/blog/page:num/"
